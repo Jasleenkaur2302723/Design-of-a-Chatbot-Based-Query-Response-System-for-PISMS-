@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Chatbot Popup</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <!-- Floating Chat Button -->
+  <button class="chat-btn" onclick="toggleChat()">💬</button>
+
+  <!-- Chat Popup -->
+  <div class="chat-popup" id="chatPopup" role="dialog" aria-label="chatbot">
+    <!-- Header -->
+    <div class="chat-header">
+      <span id="chatTitle">Help </span>
+      <div class="chat-controls">
+        <select id="langSelect" onchange="setChatLanguage()">
+          <option value="english" selected>English</option>
+          <option value="punjabi">ਪੰਜਾਬੀ</option>
+        </select>
+        <button class="close-btn" onclick="toggleChat()" title="Close">✖</button>
+      </div>
+    </div>
+
+    <!-- Body -->
+    <div class="chat-body" id="chatBody">
+      <div class="chat-message bot" id="initialBotMsg">
+        Hey! How can I help you today?
+      </div>
+    </div>
+
+    <!-- Input -->
+    <div class="chat-input">
+      <input type="text" id="userInput" placeholder="Type your message here..." autocomplete="off" />
+      <button id="sendBtn" onclick="sendMessage()">➤</button>
+    </div>
+  </div>
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

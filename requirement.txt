@@ -1,0 +1,13 @@
+requests
+python-dotenv
+nltk
+PyPDF2
+pytesseract
+pdf2image
+scikit-learn
+# optional (only if you want RAG & LLM integration):
+# langchain
+# chromadb
+# sentence-transformers
+# huggingface-hub
+# groq-client
