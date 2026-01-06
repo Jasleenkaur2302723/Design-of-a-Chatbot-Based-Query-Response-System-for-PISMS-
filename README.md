@@ -1,1 +1,1 @@
-# Design-of-a-Chatbot-Based-Query-Response-System-for-PISMS-
+This project is a web-based chatbot developed using Python (Flask) that helps users by answering questions related to irrigation and land records. It uses NLP and machine learning techniques to understand user queries and provide accurate responses from a dataset and PDF documents. The chatbot supports both English and Punjabi languages. A popup-based web interface allows easy user interaction. The system maintains chat history for better conversation flow.
