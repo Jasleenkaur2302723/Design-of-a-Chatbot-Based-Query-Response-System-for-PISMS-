@@ -1,0 +1,11 @@
+[english]
+what is your name = I am your assistant chatbot.
+hello = Hello! How can I help you today?
+bye = Goodbye! Have a great day.
+okay = great😊
+thanku = welcome🤗
+What is Comparative Command Statement = This report compares two command areas or outlets side by side. It helps evaluate water distribution, land utilization, and system performance. Officials rely on it for planning improvements and resource allocation. It highlights differences in irrigation demand and supply. The comparative report is generated in clear tabular format.
+What is Command Statement = The Command Statement provides a summary of the command area under a specific outlet or channel. It includes land area, irrigation coverage, and operational details. Officials use it for planning and monitoring water supply. It helps compare expected vs actual irrigation coverage. The statement is used for administrative decision-making.
+What is Jamabandi = In the context of land records, Jamabandi is an official "Record of Rights" document that includes details about a specific parcel of land's ownership, cultivation, and revenue status. While "Jamabandi" itself is primarily a term for general land records, its connection to water resources comes from the fact that these records often document the source and nature of irrigation for agricultural land.
+What is A form = A-Form is a supporting land record used for validating farmer applications. It includes essential landholding details such as owner name, area, and plot numbers. Irrigation authorities use it to verify application authenticity. It forms part of the documentation for processing irrigation requests. It ensures accuracy in field-level verification.
+What is Naksha nakal = "Naksha nakal" refers to obtaining a certified copy (nakal) of a land map (naksha). In the context of water resources, this likely relates to accessing official maps or records that detail land use, including the location of water bodies or irrigation infrastructure on a specific parcel of land.
